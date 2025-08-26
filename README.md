@@ -1,7 +1,7 @@
 
-# AMA Message App
+# A Message App
 
-A modern AMA (Ask Me Anything) message application built with Next.js, TypeScript, Tailwind CSS, and MongoDB. Users can sign up, send messages, and verify their email addresses. The app features authentication, message management, and a clean UI.
+A modern  message application built with Next.js, TypeScript, Tailwind CSS, and MongoDB. Users can sign up, send messages, and verify their email addresses. The app features authentication, message management, and a clean UI.
 
 ## Features
 
